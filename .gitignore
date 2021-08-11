@@ -1,4 +1,4 @@
-.env
+git s.env
 .vscode
 *.pyc
 __pycache__
